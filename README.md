@@ -4,7 +4,7 @@
 > <br>
 > Currently studying in university.
 
-#### 📝Languages
+### 📝Languages
 
 [![](https://img.shields.io/badge/-Typescript-31A8FF?style=flat-square&logo=typescript&logoColor=white)](https://www.typescript.com/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -23,31 +23,8 @@
 
 ### 🏠 Blog:
 
-- **[http://www.yuzuchan.top](http://www.yuzuchan.top/)**
 
-### 📊 Stats:
+### 📈Status
 
- ![](https://github-stats.rgb39.top/api?username=Yuzu-io&theme=transparent&locale=cn)
- 
- [![Top Langs](https://github-stats.rgb39.top/api/top-langs/?username=Yuzu-io&theme=transparent&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-### 📈 Activity Graph:
--->
-
- ![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
- 
-<!--
-**xiaoyu-c/xiaoyu-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![柚子的Github状态](https://github-readme-stats.vercel.app/api?username=Youzi-io&theme=default&show_icons=true)
+![柚子的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=Youzi-io&theme=default&layout=compact)
