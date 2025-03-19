@@ -1,6 +1,6 @@
 ## Hi there, I am [Yuzu](http://www.yuzuchan.top/) 👋
 
-> A Front end developer enthusiast from **GuangXi, China**.
+> A Full stack developer enthusiast from **GuangXi, China**.
 > <br>
 > Currently studying in university.
 
