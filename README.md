@@ -21,9 +21,6 @@
 - **WeChat** : Yuzu_sama
 - **E-mail** : 1581523609@qq.com | yuzuchan80@163.com
 
-> ### Hi, I am currently looking for a new job opportunity. my contact info is above. Feel free to contact me at any time !
->
-> ### 嗨，我目前正在寻找新的工作机会，您可以在上方看到我的联系方式，欢迎随时联系！
 
 ### 🏠 Blog:
 
